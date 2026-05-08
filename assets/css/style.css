@@ -7,10 +7,10 @@
     --accent-color: #ffdce9;    /* Vivid Sky Blue */
 
     /* --- Shared Variables (These usually don't need to change) --- */
-    --light-bg-color: #8cadcc;
-    --white-color: #8cadcc;
+    --light-bg-color: #F8F9FA;
+    --white-color: #ffffff;
     --dark-text-color: #343A40;
-    --light-text-color: #8cadcc;
+    --light-text-color: #6c757d;
     --card-bg-color: #ffffff;
     
     /* Fonts */
