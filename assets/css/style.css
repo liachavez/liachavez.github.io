@@ -274,7 +274,7 @@ nav ul li a:hover::after {
 }
 
 .btn-secondary:hover {
-    background: var(--primary-color);
+     background: var(--accent-color);
     color: var(--white-color);
 }
 
